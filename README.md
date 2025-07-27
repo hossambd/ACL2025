@@ -89,11 +89,13 @@ python zero_shot_infer.py \
 - LDA-based topic modeling reveals common failure themes:  
   *gender discourse*, *political ideology*, *identity framing*.  
 - Many false negatives involve **sarcasm**, **euphemisms**, or **ideologically subtle cues**.
- -->
+ --
 
 ## 🧑‍💻 Contact
 
 `hossam.boudraa@etu.univ-amu.fr`  – [@hossambd](https://github.com/hossambd)  
+
+--->
 
 ## ⚠️ Coming Soon
 
