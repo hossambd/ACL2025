@@ -92,10 +92,6 @@ python zero_shot_infer.py \
 - Many false negatives involve **sarcasm**, **euphemisms**, or **ideologically subtle cues**.
 
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Contact
 
-- Hossam Boudraa – [@hossambd](https://github.com/hossambd)  
-- Benoit Favre – LIS, AMU Marseille  
-- Raquel Urena – SESSTIM, AMU Marseille
-
-📬 Contact: `hossam.boudraa@univ-amu.fr`
+`hossam.boudraa@univ-amu.fr`  – [@hossambd](https://github.com/hossambd)  
