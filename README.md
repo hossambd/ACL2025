@@ -94,4 +94,4 @@ python zero_shot_infer.py \
 
 ## 🧑‍💻 Contact
 
-`hossam.boudraa@univ-amu.fr`  – [@hossambd](https://github.com/hossambd)  
+`hossam.boudraa@etu.univ-amu.fr`  – [@hossambd](https://github.com/hossambd)  
