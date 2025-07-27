@@ -15,11 +15,11 @@ Implicit hate speech poses a unique challenge as it relies on **contextual, euph
 
 ## 🧪 Key Contributions
 
-✅ A benchmark for **Implicit Target Span Identification (iTSI)** using **SBIC**, **IHC**, and **OffensiveLang** datasets.  
-✅ Performance comparison of multiple sub-1B models in **zero-shot**, **few-shot**, and **fully supervised** conditions.  
-✅ Introduction of **instruction tuning and LoRA fine-tuning** to enhance detection sensitivity.  
-✅ In-depth **error analysis via LDA topic modeling** to reveal systematic model blind spots.  
-✅ Demonstration that **scale isn’t everything**: small, well-instructed models can outperform larger LLMs.
+- A benchmark for **Implicit Target Span Identification (iTSI)** using **SBIC**, **IHC**, and **OffensiveLang** datasets.  
+- Performance comparison of multiple sub-1B models in **zero-shot**, **few-shot**, and **fully supervised** conditions.  
+- Introduction of **instruction tuning and LoRA fine-tuning** to enhance detection sensitivity.  
+- In-depth **error analysis via LDA topic modeling** to reveal systematic model blind spots.  
+- Demonstration that **scale isn’t everything**: small, well-instructed models can outperform larger LLMs.
 
 ---
 
@@ -57,7 +57,7 @@ Annotation strategy: Weak supervision + automatic annotation (GPT-3.5) for span 
 - 🧵 What can topic-based error analysis reveal?
 
 ---
-
+<!-- 
 ## 🛠️ Setup & Training
 
 ### Requirements
@@ -90,7 +90,7 @@ python zero_shot_infer.py \
 - LDA-based topic modeling reveals common failure themes:  
   *gender discourse*, *political ideology*, *identity framing*.  
 - Many false negatives involve **sarcasm**, **euphemisms**, or **ideologically subtle cues**.
-
+ -->
 
 ## 🧑‍💻 Contact
 
