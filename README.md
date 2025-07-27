@@ -7,7 +7,7 @@
 
 ## 🔍 Overview
 
-This repository provides the code, prompts, and benchmark results for identifying **implicit hate speech target spans** using **parameter-efficient masked and generative LLMs (<1B)** in zero-shot, few-shot, and supervised settings.
+This repository provides the code, prompts, and benchmark results for identifying **implicit hate speech target spans** using **parameter-efficient masked and generative SLMs (<1B)** in zero-shot, few-shot, and supervised settings.
 
 Implicit hate speech poses a unique challenge as it relies on **contextual, euphemistic, and ideologically coded expressions** rather than explicit slurs. Our work evaluates span-level models across multiple datasets to address this problem with interpretable, efficient, and instruction-tuned architectures.
 
