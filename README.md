@@ -95,3 +95,5 @@ python zero_shot_infer.py \
 ## 🧑‍💻 Contact
 
 `hossam.boudraa@etu.univ-amu.fr`  – [@hossambd](https://github.com/hossambd)  
+
+> ⚠️ The code scripts and prompt templates will be added soon. Stay tuned!
