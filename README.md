@@ -95,6 +95,6 @@ python zero_shot_infer.py \
 
 `hossam.boudraa@etu.univ-amu.fr`  – [@hossambd](https://github.com/hossambd)  
 
-## ⚠️ 
+## ⚠️ Coming Soon
 
 > The code scripts and prompt templates will be added soon.
