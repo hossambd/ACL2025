@@ -1,6 +1,6 @@
-# Implicit Hate Target Span Identification in Zero- and Few-Shot Settings with Selective Sub-Billion Parameter Models# 🧠
+# Implicit Hate Target Span Identification in Zero- and Few-Shot Settings with Selective Sub-Billion Parameter Models 
 
-**ACL 2025**  
+**ACL 2025**  🧠
 *Hossam Boudraa, Benoit Favre, Raquel Urena*
 
 ---
